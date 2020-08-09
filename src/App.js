@@ -9,11 +9,11 @@ const App = () => {
   return (
     <>
       <Switch>
-          <Route exact path="/react-calipso/" component={ Home } />
-          <Route exact path="/react-calipso/about" component={ About } />
-          <Route exact path="/react-calipso/service" component={ Service } />
-          <Route exact path="/react-calipso/contact" component={ Contact }  />
-          <Redirect to="/react-calipso/" />
+          <Route exact path="/" component={ Home } />
+          <Route exact path="/about" component={ About } />
+          <Route exact path="/service" component={ Service } />
+          <Route exact path="/contact" component={ Contact }  />
+          <Redirect to="/" />
       </Switch>
     </>
   );
