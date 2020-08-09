@@ -2,7 +2,7 @@
   "name": "essoree-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chiranjibzlt.github.io/React-calipso/",
+  "homepage": "https://chiranjibzlt.github.io/react-calipso/",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "cra-template": "1.0.3",
