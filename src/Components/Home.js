@@ -1,9 +1,9 @@
 import React from "react";
-
+import Header from "./page-comp/Header";
  const Home = () => {
      return (
        <>
-         <h1>Welcome Home</h1>
+        <Header />
        </>
      )
      
