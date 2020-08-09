@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-calipso/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-calipso/static/js/main.3bab9013.chunk.js",
+    "main.js.map": "/react-calipso/static/js/main.3bab9013.chunk.js.map",
+    "runtime-main.js": "/react-calipso/static/js/runtime-main.8ca8bed6.js",
+    "runtime-main.js.map": "/react-calipso/static/js/runtime-main.8ca8bed6.js.map",
+    "static/js/2.ede97b6c.chunk.js": "/react-calipso/static/js/2.ede97b6c.chunk.js",
+    "static/js/2.ede97b6c.chunk.js.map": "/react-calipso/static/js/2.ede97b6c.chunk.js.map",
+    "index.html": "/react-calipso/index.html",
+    "precache-manifest.57917075a1380aded42aaf6c1f9e6d46.js": "/react-calipso/precache-manifest.57917075a1380aded42aaf6c1f9e6d46.js",
+    "service-worker.js": "/react-calipso/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-calipso/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ede97b6c.chunk.js.LICENSE.txt": "/react-calipso/static/js/2.ede97b6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ca8bed6.js",
+    "static/js/2.ede97b6c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3bab9013.chunk.js"
+  ]
+}
